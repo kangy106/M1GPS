@@ -18,6 +18,8 @@ M1GPSは、場所の名前でしりとりをしていき、入力した場所と
 
 ![スクリーンショット_2024-07-05_22 04 36-removebg-preview](https://github.com/user-attachments/assets/c6ff21b0-7dd9-49b0-a6ff-1d3eb9c8145b)
 ![スクリーンショット_2024-07-05_22 04 36-removebg-preview](https://github.com/user-attachments/assets/c6ff21b0-7dd9-49b0-a6ff-1d3eb9c8145b)
+-
+![スクリーンショット_2024-07-06_0 10 56-removebg-preview](https://github.com/user-attachments/assets/8f5b34b1-02e9-4e6a-bf93-ae033f6f8b31)
 
 
 
