@@ -33,10 +33,8 @@ M1GPSは、場所の名前でしりとりをしていき、入力した場所と
 </p>
 
 <p align="center">
+   <img src="https://github.com/user-attachments/assets/e642560c-5621-43a9-9c1d-572e6d04fe93" alt="スクリーンショット_2024-07-06_2 06 43-removebg-preview" width="300" />
    <img src="https://github.com/user-attachments/assets/a1815ca8-baf9-4cdf-9872-1713807184e2" alt="スクリーンショット_2024-07-06_2 07 16" width="300" />
-   
-   <img src="https://github.com/user-attachments/assets/543860f0-5f45-4a66-bdda-99037a7a26aa" alt="スクリーンショット_2024-07-06_2 07 16" width="300" />
-  
 </p>
 
 <p align="center">
