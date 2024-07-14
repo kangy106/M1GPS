@@ -22,6 +22,9 @@ M1GPSは、場所の名前でしりとりをしていき、入力した場所と
 </p>
 <p align="center">タイトル画面　左：先行プレイヤー  右:後攻プレイヤー</p>
 <br />
+<br />
+<br />
+
 
 <p align="center">
    <img src="https://github.com/user-attachments/assets/8f5b34b1-02e9-4e6a-bf93-ae033f6f8b31" alt="スクリーンショット_2024-07-06_0 10 56" width="300" />
