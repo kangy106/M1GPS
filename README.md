@@ -33,7 +33,8 @@ M1GPSは、場所の名前でしりとりをしていき、入力した場所と
 </p>
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/c4bf2a60-397a-41ee-b83b-695df73ababc" alt="スクリーンショット_2024-07-05_23 46 57" width="300" />
+   <img src="https://github.com/user-attachments/assets/a1815ca8-baf9-4cdf-9872-1713807184e2" alt="スクリーンショット_2024-07-06_2 07 16" width="300" />
+   
    <img src="https://github.com/user-attachments/assets/543860f0-5f45-4a66-bdda-99037a7a26aa" alt="スクリーンショット_2024-07-06_2 07 16" width="300" />
   
 </p>
@@ -41,7 +42,7 @@ M1GPSは、場所の名前でしりとりをしていき、入力した場所と
 <p align="center">
    
    <img src="https://github.com/user-attachments/assets/596c99b4-19b5-4df3-a1fe-eccb0d11cf27" alt="スクリーンショット_2024-07-05_23 46 41" width="300" />
-  <img src="https://github.com/user-attachments/assets/a1815ca8-baf9-4cdf-9872-1713807184e2" alt="スクリーンショット_2024-07-06_2 07 16" width="300" />
+  <img src="https://github.com/user-attachments/assets/c4bf2a60-397a-41ee-b83b-695df73ababc" alt="スクリーンショット_2024-07-05_23 46 57" width="300" />
 </p>
 
 
