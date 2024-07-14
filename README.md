@@ -16,18 +16,29 @@ M1GPSは、場所の名前でしりとりをしていき、入力した場所と
 
 **画像**
 
-![スクリーンショット_2024-07-05_22 04 36-removebg-preview](https://github.com/user-attachments/assets/c6ff21b0-7dd9-49b0-a6ff-1d3eb9c8145b)
-![スクリーンショット_2024-07-05_22 04 36-removebg-preview](https://github.com/user-attachments/assets/c6ff21b0-7dd9-49b0-a6ff-1d3eb9c8145b)
--
-![スクリーンショット_2024-07-05_22 15 05-removebg-preview](https://github.com/user-attachments/assets/78386caa-e4e4-41fc-8163-2b9897190c5e)
-![スクリーンショット_2024-07-06_0 10 56-removebg-preview](https://github.com/user-attachments/assets/8f5b34b1-02e9-4e6a-bf93-ae033f6f8b31)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c6ff21b0-7dd9-49b0-a6ff-1d3eb9c8145b" alt="スクリーンショット_2024-07-05_22 04 36" width="300" />
+  <img src="https://github.com/user-attachments/assets/c6ff21b0-7dd9-49b0-a6ff-1d3eb9c8145b" alt="スクリーンショット_2024-07-05_22 04 36" width="300" />
+</p>
 
-![スクリーンショット_2024-07-06_0 12 51-removebg-preview](https://github.com/user-attachments/assets/81739f5f-94e1-4085-8915-619f068ed5ab)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/78386caa-e4e4-41fc-8163-2b9897190c5e" alt="スクリーンショット_2024-07-05_22 15 05" width="300" />
+  <img src="https://github.com/user-attachments/assets/8f5b34b1-02e9-4e6a-bf93-ae033f6f8b31" alt="スクリーンショット_2024-07-06_0 10 56" width="300" />
+</p>
 
-![スクリーンショット_2024-07-06_2 07 16-removebg-preview](https://github.com/user-attachments/assets/543860f0-5f45-4a66-bdda-99037a7a26aa)
-![スクリーンショット_2024-07-06_2 07 16-removebg-preview](https://github.com/user-attachments/assets/a1815ca8-baf9-4cdf-9872-1713807184e2)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/81739f5f-94e1-4085-8915-619f068ed5ab" alt="スクリーンショット_2024-07-06_0 12 51" width="300" />
+  <img src="https://github.com/user-attachments/assets/543860f0-5f45-4a66-bdda-99037a7a26aa" alt="スクリーンショット_2024-07-06_2 07 16" width="300" />
+</p>
 
-![スクリーンショット_2024-07-05_23 46 41-removebg-preview](https://github.com/user-attachments/assets/596c99b4-19b5-4df3-a1fe-eccb0d11cf27)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a1815ca8-baf9-4cdf-9872-1713807184e2" alt="スクリーンショット_2024-07-06_2 07 16" width="300" />
+  <img src="https://github.com/user-attachments/assets/596c99b4-19b5-4df3-a1fe-eccb0d11cf27" alt="スクリーンショット_2024-07-05_23 46 41" width="300" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c4bf2a60-397a-41ee-b83b-695df73ababc" alt="スクリーンショット_2024-07-05_23 46 57" width="300" />
+</p>
 
 
 
