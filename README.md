@@ -42,7 +42,7 @@ M1GPSは、場所の名前でしりとりをしていき、入力した場所と
    
   <img src="https://github.com/user-attachments/assets/81739f5f-94e1-4085-8915-619f068ed5ab" alt="スクリーンショット_2024-07-06_0 12 51" width="300" />
 </p>
-<p align="center"><strong>TURN 1　後攻</strong>strong></p>
+<p align="center"><strong>TURN 1　後攻</strong></p>
 <p align="center">(左：先行プレイヤー  右:後攻プレイヤー)</p>
 <br />
 <br />
@@ -53,7 +53,7 @@ M1GPSは、場所の名前でしりとりをしていき、入力した場所と
    <img src="https://github.com/user-attachments/assets/a1815ca8-baf9-4cdf-9872-1713807184e2" alt="スクリーンショット_2024-07-06_2 07 16" width="300" />
 </p>
 
-<p align="center"><strong>TURN 2　先行</strong>strong></p>
+<p align="center"><strong>TURN 2　先行</strong></p>
    <p align="center">(左：先行プレイヤー  右:後攻プレイヤー)</p>
 <br />
 <br />
