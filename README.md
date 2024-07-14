@@ -15,7 +15,11 @@ M1GPSは、場所の名前でしりとりをしていき、入力した場所と
 5. 5ターン終了後、より多くのポイントを持っているプレイヤーが勝者となります。
 
 **画像**
+
 ![スクリーンショット_2024-07-05_22 04 36-removebg-preview](https://github.com/user-attachments/assets/c6ff21b0-7dd9-49b0-a6ff-1d3eb9c8145b)
+![スクリーンショット_2024-07-05_22 04 36-removebg-preview](https://github.com/user-attachments/assets/c6ff21b0-7dd9-49b0-a6ff-1d3eb9c8145b)
+
+
 
 **機能**  
 - **Google Places APIの使用**: 場所の名前を入力して場所の詳細情報や写真を取得します。  
