@@ -22,15 +22,12 @@ M1GPSは、場所の名前でしりとりをしていき、入力した場所と
 </p>
 
 <p align="center">
+   <img src="https://github.com/user-attachments/assets/8f5b34b1-02e9-4e6a-bf93-ae033f6f8b31" alt="スクリーンショット_2024-07-06_0 10 56" width="300" />
   <img src="https://github.com/user-attachments/assets/78386caa-e4e4-41fc-8163-2b9897190c5e" alt="スクリーンショット_2024-07-05_22 15 05" width="300" />
-  <img src="https://github.com/user-attachments/assets/8f5b34b1-02e9-4e6a-bf93-ae033f6f8b31" alt="スクリーンショット_2024-07-06_0 10 56" width="300" />
 </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/81739f5f-94e1-4085-8915-619f068ed5ab" alt="スクリーンショット_2024-07-06_0 12 51" width="300" />
-
-
-   
   <img src="https://github.com/user-attachments/assets/543860f0-5f45-4a66-bdda-99037a7a26aa" alt="スクリーンショット_2024-07-06_2 07 16" width="300" />
 </p>
 
